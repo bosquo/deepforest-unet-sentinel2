@@ -1,5 +1,7 @@
 # DeepForest
 
+[Link to my wiki] (https://git.sbg.ac.at/s1103232/deepforest/-/wikis/DeepForest-Wiki)
+
 ## Mission Statement
 In times of climate change and extreme calamities in forests, now more than ever, good forest stewardship and sustainable forest management is of paramount importance. In order to support this, detailed information about the forest ecosystems is required. Among many other measurements, the required information includes the forest type (deciduous of coniferous). In order to foster good forest stewardship and climate-stable forest ecosystems, this project aims to assist in providing knowledge about the forest type, by establishing a framework for automatical classification of deciduous and coniferous forests in Sentinel-2 imagery, in a deep learning approach.
 
