@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+<MD_Metadata xmlns="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<language>
+		<LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+	</language>
+	<characterSet>
+		<MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+	</characterSet>
+	<hierarchyLevel>
+		<MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+	</hierarchyLevel>
+	<hierarchyLevelName>
+		<gco:CharacterString>dataset</gco:CharacterString>
+	</hierarchyLevelName>
+	<contact>
+		<CI_ResponsibleParty>
+			<individualName>
+				<gco:CharacterString>Florian Herbst</gco:CharacterString>
+			</individualName>
+			<organisationName>
+				<gco:CharacterString>PLUS</gco:CharacterString>
+			</organisationName>
+			<positionName>
+				<gco:CharacterString>Project Lead</gco:CharacterString>
+			</positionName>
+			<role>
+				<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="ISOTC211/19115">publisher</CI_RoleCode>
+			</role>
+		</CI_ResponsibleParty>
+	</contact>
+	<dateStamp>
+		<gco:Date>2025-05-12</gco:Date>
+	</dateStamp>
+	<metadataStandardName>
+		<gco:CharacterString>ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
+	</metadataStandardName>
+	<metadataStandardVersion>
+		<gco:CharacterString>2007</gco:CharacterString>
+	</metadataStandardVersion>
+	<identificationInfo>
+		<MD_DataIdentification>
+			<citation>
+				<CI_Citation>
+					<title>
+						<gco:CharacterString>Dominant_Leaftype_2018_(targetdata)</gco:CharacterString>
+					</title>
+					<date>
+						<CI_Date>
+							<date>
+								<gco:Date>2018-04-01</gco:Date>
+							</date>
+							<dateType>
+								<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation" codeSpace="ISOTC211/19115">creation</CI_DateTypeCode>
+							</dateType>
+						</CI_Date>
+					</date>
+					<date>
+						<CI_Date>
+							<date>
+								<gco:Date>2019-01-09</gco:Date>
+							</date>
+							<dateType>
+								<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+							</dateType>
+						</CI_Date>
+					</date>
+					<otherCitationDetails>
+						<gco:CharacterString>DOI: https://doi.org/10.2909/82f93572-9888-47ef-97a1-5cac5985a26a</gco:CharacterString>
+					</otherCitationDetails>
+				</CI_Citation>
+			</citation>
+			<abstract>
+				<gco:CharacterString>Provides at pan-European level in the spatial resolution of 10 m information on the dominant leaf type (broadleaved or coniferous) for the 2018 reference year.According to Cpernicus Land Monitoring Service:The High Resolution Dominant Leaf Type (DLT) raster product provides a basic land cover classification with 3 thematic classes (all non-tree covered areas, broadleaved and coniferous).This dataset is provided annually starting with 2018 in 10 meter rasters (fully conformant with the EEA reference grid) in 100 x 100 km tiles covering the EEA38 countries.High Resolution Layer Tree Cover and Forest product is part of the European Union’s Copernicus Land Monitoring Service. Confidence layer available for the dataset.This dataset includes data from the French Overseas Territories (DOMs)https://doi.org/10.2909/82f93572-9888-47ef-97a1-5cac5985a26a</gco:CharacterString>
+			</abstract>
+			<purpose>
+				<gco:CharacterString>The "dominant leaf type" dataset retrieved  form Copernicus Land Monitoring Service is used as target data in the DeepForest project.</gco:CharacterString>
+			</purpose>
+			<credit>
+				<gco:CharacterString>Copernicus Land Monitoring Service, Florian Herbst</gco:CharacterString>
+			</credit>
+			<descriptiveKeywords>
+				<MD_Keywords>
+					<keyword>
+						<gco:CharacterString>target_data</gco:CharacterString>
+					</keyword>
+					<keyword>
+						<gco:CharacterString>labels</gco:CharacterString>
+					</keyword>
+					<keyword>
+						<gco:CharacterString>dominant leaf type</gco:CharacterString>
+					</keyword>
+					<keyword>
+						<gco:CharacterString>Europe</gco:CharacterString>
+					</keyword>
+					<keyword>
+						<gco:CharacterString>10m</gco:CharacterString>
+					</keyword>
+					<keyword>
+						<gco:CharacterString>Continents</gco:CharacterString>
+					</keyword>
+					<keyword>
+						<gco:CharacterString>countries</gco:CharacterString>
+					</keyword>
+				</MD_Keywords>
+			</descriptiveKeywords>
+			<language>
+				<LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="enm" codeSpace="ISO639-2">enm</LanguageCode>
+			</language>
+			<characterSet>
+				<MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+			</characterSet>
+			<topicCategory>
+				<MD_TopicCategoryCode>environment</MD_TopicCategoryCode>
+			</topicCategory>
+			<topicCategory>
+				<MD_TopicCategoryCode>planningCadastre</MD_TopicCategoryCode>
+			</topicCategory>
+			<extent>
+				<EX_Extent>
+					<geographicElement>
+						<EX_GeographicBoundingBox>
+							<extentTypeCode>
+								<gco:Boolean>false</gco:Boolean>
+							</extentTypeCode>
+							<westBoundLongitude>
+								<gco:Decimal>-31.28</gco:Decimal>
+							</westBoundLongitude>
+							<eastBoundLongitude>
+								<gco:Decimal>44.81</gco:Decimal>
+							</eastBoundLongitude>
+							<southBoundLatitude>
+								<gco:Decimal>27.64</gco:Decimal>
+							</southBoundLatitude>
+							<northBoundLatitude>
+								<gco:Decimal>71.16</gco:Decimal>
+							</northBoundLatitude>
+						</EX_GeographicBoundingBox>
+					</geographicElement>
+				</EX_Extent>
+			</extent>
+		</MD_DataIdentification>
+	</identificationInfo>
+	<dataQualityInfo>
+		<DQ_DataQuality>
+			<scope>
+				<DQ_Scope>
+					<level>
+						<MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+					</level>
+				</DQ_Scope>
+			</scope>
+			<lineage>
+				<LI_Lineage>
+					<statement>
+						<gco:CharacterString>The dataset has been retrieved using Copernicus Land Monitoring Service's REST API. It then underwent preprocessing and was used to lable the training data of the DeepFOrest Project.</gco:CharacterString>
+					</statement>
+				</LI_Lineage>
+			</lineage>
+		</DQ_DataQuality>
+	</dataQualityInfo>
+	<metadataConstraints>
+		<MD_Constraints>
+			<useLimitation>
+				<gco:CharacterString>The Copernicus component is governed by Regulation (EU) No 2021/696 of the European Parliament and of the Council of 28 April 2021 establishing the Union Space Programme and the European Union Agency for the Space Programme and repealing Regulations (EU) No 912/2010, (EU) No 1285/2013 and (EU) No 377/2014 and Decision No 541/2014/EU. Within the Copernicus component, a portfolio of land monitoring activities has been delegated by the European Union to the European Environment Agency (EEA) and the DG Joint Research Centre of the European Commission.The Copernicus land monitoring products and services are made available on a principle of full, open and free access, as established by the Commission Delegated Regulation (EU) No 1159/2013 of 12 July 2013.Free, full and open access to the products and services of the Copernicus Land Monitoring Service is made on the conditions that:1. When distributing or communicating Copernicus Land Monitoring Service products and services (data, software scripts, web services, user and methodological documentation and similar) to the public, users shall inform the public of the source of these products and services.2. Where the Copernicus Land Monitoring Service products and services have been adapted or modified by the user, the user shall clearly state this.3. Users shall make sure not to convey the impression to the public that the user's activities are officially endorsed by the European Union.</gco:CharacterString>
+			</useLimitation>
+		</MD_Constraints>
+	</metadataConstraints>
+	<metadataMaintenance>
+		<MD_MaintenanceInformation>
+			<maintenanceAndUpdateFrequency>
+				<MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="notPlanned" codeSpace="ISOTC211/19115">notPlanned</MD_MaintenanceFrequencyCode>
+			</maintenanceAndUpdateFrequency>
+			<dateOfNextUpdate>
+				<gco:Date>2025-05-13</gco:Date>
+			</dateOfNextUpdate>
+		</MD_MaintenanceInformation>
+	</metadataMaintenance>
+</MD_Metadata>
