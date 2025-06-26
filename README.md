@@ -43,3 +43,5 @@ planning and stewardship.
 
 ## Keywords
 Neural Network, Segmentation, Remote Sensing, Forestry, Forest Types
+
+![poster](image.png)
